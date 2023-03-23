@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(174, 94, 94);
+    padding: 30px 100px;
+}
+h1{
+    text-align: center;
+    background-color: #254747;
+    color: aliceblue;
+    padding: 15px;
+    margin: 35px 130px 0px 130px;    
+}
+#container{
+    text-align: center;
+}
+
+#textbox{
+   width: 75%;
+}
+p{
+    background-color: #254747;
+    margin: -4px 130px 0px 130px;  
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+
+textarea {
+    width: 75%;
+    height: 200px;
+  }
