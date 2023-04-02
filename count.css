@@ -48,7 +48,7 @@ textarea {
     width: 75%;
     height: 200px;
   }
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 680px) {
     body{
         width: 100%;
         padding: 10px;
